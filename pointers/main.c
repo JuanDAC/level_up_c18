@@ -2,7 +2,7 @@
 
 int main(void)
 {
-		point_to_variable();
+		reference();
 		return (EXIT_SUCCESS);
 }
 

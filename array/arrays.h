@@ -11,9 +11,12 @@
 
 /* prototypes */
 
-void definition_pointers(void);
-void point_to_variable(void);
-void reference(void);
+void definition_arrays(void);
+void array_variable(void);
+void array_handler(void);
+void definition_string(void);
+void string_variable(void);
+void string_handler(void);
 
 /* macros functions */
 
